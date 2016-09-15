@@ -167,7 +167,7 @@ fieldset[disabled] .btn-xl:hover {
 
 .navbar-custom .navbar-brand {
     color: #800000;
-    font-family: "Helvetica Neue", Helvetica, Arial
+    font-family: "Helvetica Neue", Helvetica, Arial, bold
 }
 
 .navbar-custom .navbar-brand.active,
